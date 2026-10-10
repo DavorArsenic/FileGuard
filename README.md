@@ -25,20 +25,20 @@ FileGuard is a command-line security tool that monitors files for unauthorized o
 
 ```text
 fileguard/
-├── fileguard/
-│   ├── __init__.py
-│   ├── cli.py
-│   ├── hasher.py
-│   └── monitor.py
-├── monitored_files/
-│   └── file.txt
-├── tests/
-│   ├── test_cli.py
-│   ├── test_hasher.py
-│   └── test_monitor.py
-├── .gitignore
-├── main.py
-└── README.md
+|-- fileguard/
+|   |-- __init__.py
+|   |-- cli.py
+|   |-- hasher.py
+|   `-- monitor.py
+|-- monitored_files/
+|   `-- file.txt
+|-- tests/
+|   |-- test_cli.py
+|   |-- test_hasher.py
+|   `-- test_monitor.py
+|-- .gitignore
+|-- main.py
+`-- README.md
 ```
 
 ## Requirements
