@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# FileGuard security files
+.baseline.json
+.fileguard.key
+scan-report.json
