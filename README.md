@@ -29,16 +29,16 @@ fileguard/
 |   |-- __init__.py
 |   |-- cli.py
 |   |-- hasher.py
-|   `-- monitor.py
+|   |-- monitor.py
 |-- monitored_files/
-|   `-- file.txt
+|   |-- file.txt
 |-- tests/
 |   |-- test_cli.py
 |   |-- test_hasher.py
-|   `-- test_monitor.py
+|   |-- test_monitor.py
 |-- .gitignore
 |-- main.py
-`-- README.md
+|-- README.md
 ```
 
 ## Requirements
